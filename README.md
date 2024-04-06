@@ -22,7 +22,7 @@
 ## Пример использования
 
 ```bash
-$ python phonebook.py
+$ python main.py
 ```
 
 
